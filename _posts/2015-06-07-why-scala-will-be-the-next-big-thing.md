@@ -5,7 +5,7 @@ permalink: blog/why-scala-will-be-the-next-big-thing
 ---
 
 
-##Why Learn Scala ? 
+## Why Learn Scala ? 
 
 <br>
 
@@ -22,7 +22,7 @@ No programming language is a silver bullet, it is upto to you to decide what is 
 
 PS : You are free to use this article to sell scala to your boss <i class="fa fa-smile-o fa-lg"></i>
 
-##Heads Up !!
+## Heads Up !!
 
 > If I were to pick a language to use today other than Java, it would be Scala. -- James Gosling, creator of Java  
                                                          
@@ -32,7 +32,7 @@ PS : You are free to use this article to sell scala to your boss <i class="fa fa
 
 Ok, those are some pretty big names talking about scala.Let's get started.
 
-##A Little bit of History
+## A Little bit of History
 
 Scala was designed from 2001 by [Martin Odersky](http://en.wikipedia.org/wiki/Martin_Odersky){:target="_blank"} who was also the co-creator of [javac](http://en.wikipedia.org/wiki/Javac){:target="_blank"} and [Java Generics](http://en.wikipedia.org/wiki/Generics_in_Java){:target="_blank"}.
 
@@ -42,7 +42,7 @@ Below is a short presentation which you can read if you are curious.
 
 {% include _slideshare-embed.html id="t0iDsowkeSRWDv" %}
  
-##Scala - The Good Stuff !!
+## Scala - The Good Stuff !!
 
 - <a href="#MultiParadigm">Multi Paradigm</a>
 - <a href="#RunsOnJVM">Runs on the JVM</a>

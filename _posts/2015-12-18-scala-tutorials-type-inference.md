@@ -4,7 +4,7 @@ title: "Scala Tutorials Part #2 - Type Inference & types in Scala"
 permalink: blog/scala-tutorials-part-2-type-inference-in-scala
 ---
 
-##Type inference
+## Type inference
 
 This is part 2 of the scala tutorial series.Check [here](/blog-list?item-0&item-0-2&item-0-2-0) for the full series.
 

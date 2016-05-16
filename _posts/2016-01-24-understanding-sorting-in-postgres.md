@@ -5,7 +5,7 @@ permalink: blog/all-you-need-to-know-about-sorting-in-postgres
 ---
 
 
-##Sorting
+## Sorting
 
 Sorting is one of the most fundamental operations in database systems and understanding how they work inside is crucial in optimizing them.
 

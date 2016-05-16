@@ -4,7 +4,7 @@ title: "Understanding caching in Postgres - An in-depth guide"
 permalink: blog/understanding-postgres-caching-in-depth
 ---
 
-##Caching
+## Caching
 
 Caching can be considered an important aspect in tuning database system performance.
      

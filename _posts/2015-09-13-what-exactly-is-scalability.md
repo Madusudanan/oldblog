@@ -4,7 +4,7 @@ title: "What exactly is scalability ?"
 permalink: blog/what-exactly-is-scalability
 ---
 
-##Understanding scalability from the inside
+## Understanding scalability from the inside
 
 We often hear about these terms like scalability,elastic scaling,scaling in the cloud and the likes.Apart them being marketing buzzwords, they have some meaning behind them.
 Let's understand them, in particular scalability.
