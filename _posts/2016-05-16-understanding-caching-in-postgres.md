@@ -323,9 +323,9 @@ With postgres, there are several tools at our disposal for measuring performance
     
     This helps us see the data in shared buffers in real time.Collects information from shared_buffers and puts it inside of pg_buffercache for viewing.
     
-    A sample query goes as below, which lists the top 10 tables along with the number of pages cached.
+    A sample query goes as below, which lists the top 100 tables along with the number of pages cached.
     
-    <code data-gist-id="cf41ad220182f1d2595677572303e34a"></code>
+    <code data-gist-id="f02ebba386164b500e5c9cb15cd7f8a6"></code>
     
   - PG fincore
     
