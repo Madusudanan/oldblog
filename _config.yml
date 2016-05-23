@@ -6,7 +6,7 @@ author: "Madusudanan.B.N"
 url: "http://madusudanan.com"
 
 comments: true
-permalink: /blog/:title
+permalink: /blog/:title/
 
 gems:
   - jekyll-sitemap
