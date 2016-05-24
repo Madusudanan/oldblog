@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding caching in Postgres - An in-depth guide"
-permalink: blog/understanding-postgres-caching-in-depth
+permalink: blog/understanding-postgres-caching-in-depth/
 ---
 
 ## Caching
