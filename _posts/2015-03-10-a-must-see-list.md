@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Must See List"
-permalink: blog/a-must-see-list
+permalink: blog/a-must-see-list/
 ---
 
 ## Must See tutorials/talks for all software engineers

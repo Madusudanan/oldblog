@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why you should use IDEs instead of text editors for coding"
-permalink: blog/why-you-should-use-ides-instead-of-text-editors-for-coding
+permalink: blog/why-you-should-use-ides-instead-of-text-editors-for-coding/
 ---
 
 ## IDE Vs Text Editor

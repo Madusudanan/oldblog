@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Evil User Interfaces"
-permalink: blog/evil-user-interfaces
+permalink: blog/evil-user-interfaces/
 ---
 
 ## Evil User Interfaces - What is that??

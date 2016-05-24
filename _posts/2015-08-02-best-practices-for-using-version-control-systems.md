@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best practices for using version control systems"
-permalink: blog/best-practices-for-using-version-control-systems
+permalink: blog/best-practices-for-using-version-control-systems/
 ---
 
 ## Version control systems - Best practices so that you can sleep well

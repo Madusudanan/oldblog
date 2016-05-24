@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "All you need to know about sorting in Postgres"
-permalink: blog/all-you-need-to-know-about-sorting-in-postgres
+permalink: blog/all-you-need-to-know-about-sorting-in-postgres/
 ---
 
 

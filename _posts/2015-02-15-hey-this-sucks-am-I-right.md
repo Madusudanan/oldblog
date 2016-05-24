@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hey this sucks am I right !!"
-permalink: blog/hey-this-sucks-am-I-right
+permalink: blog/hey-this-sucks-am-I-right/
 ---
 
 ## Hey this sucks am I right - The Irony

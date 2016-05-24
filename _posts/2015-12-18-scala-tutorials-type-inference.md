@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scala Tutorials Part #2 - Type Inference & types in Scala"
-permalink: blog/scala-tutorials-part-2-type-inference-in-scala
+permalink: blog/scala-tutorials-part-2-type-inference-in-scala/
 ---
 
 ## Type inference

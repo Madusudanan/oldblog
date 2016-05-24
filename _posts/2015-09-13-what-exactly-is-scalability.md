@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What exactly is scalability ?"
-permalink: blog/what-exactly-is-scalability
+permalink: blog/what-exactly-is-scalability/
 ---
 
 ## Understanding scalability from the inside

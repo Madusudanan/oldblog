@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scala Tutorials Part #1 - Getting Started with Scala"
-permalink: blog/scala-tutorials-part-1-getting-started
+permalink: blog/scala-tutorials-part-1-getting-started/
 ---
 
 ## Getting Started with Scala

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Scala will be the next big thing"
-permalink: blog/why-scala-will-be-the-next-big-thing
+permalink: blog/why-scala-will-be-the-next-big-thing/
 ---
 
 

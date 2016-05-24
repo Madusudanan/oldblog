@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Static vs Dynamic typing - Why you should care?"
-permalink: blog/static-vs-dynamic-typing-why-you-should-care
+permalink: blog/static-vs-dynamic-typing-why-you-should-care/
 ---
 
 ## Static vs Dynamic typing
